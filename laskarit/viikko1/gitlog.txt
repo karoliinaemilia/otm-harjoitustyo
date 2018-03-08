@@ -1,0 +1,116 @@
+commit a6d79b25696c3ecef52f9a20037d7d2831697e09
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:56:26 2018 +0200
+
+    file1 poistettu ja file2 > file22
+
+ tiedostoja/file1  | 0
+ tiedostoja/file2  | 0
+ tiedostoja/file22 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 82af108b9a9df503ced391b6335566b57163bb67
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:52:45 2018 +0200
+
+    tiedostoja hakemisto ja muutama tiedosto
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a053d90cb7123d2f60eb67dd6c7c646f1739ebba
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:45:58 2018 +0200
+
+    eka ja kolmas muutoksia
+
+ eka.txt    | 3 +--
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 3 deletions(-)
+
+commit 39a00e3f8b0a8d59209cd65fa1e5721c7a740f1c
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:44:12 2018 +0200
+
+    tiedosto.txt > eka.txt
+
+ eka.txt      | 4 ++++
+ tiedosto.txt | 4 ----
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+
+commit 8f84fcf562725302e8b85f97aa69a4b734961f90
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:42:43 2018 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 36fb8f3da83fb69cd3d860a9867ec42163d655b3
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:40:35 2018 +0200
+
+    hieman lisaa tekstiä
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 42b913ff8ec749f1b537d6e8fe96e3d1806e4320
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:36:55 2018 +0200
+
+    paljon tekstiä
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 42495626d65da1b0b733af0053be6dd5193283b2
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:30:47 2018 +0200
+
+    uusi hakemisto
+
+ stuff/jokinTiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a9f785e3b3cd1db0a2d84851ce72a536d246482c
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:29:39 2018 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 9bd7e10fab640c417b4bdc397a94649b7383fab2
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:28:23 2018 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 649ad1c98390f58132c2bff78c29f80125c49ba8
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:26:00 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit adf73e277a4cd465598931264ae24f7a2a3df3b0
+Author: Karoliina Koivu <karoliinakoivu@gmail.com>
+Date:   Thu Mar 8 21:23:45 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+

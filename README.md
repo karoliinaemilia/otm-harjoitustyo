@@ -1,8 +1,8 @@
-## OTM-harjoitustyö
+# OTM-harjoitustyö
 
-### Tehtävät
+## Tehtävät
 
-#### Viikko 1
+### Viikko 1
 
 
 [komentorivi.txt](laskarit/viikko1/komentorivi.txt)

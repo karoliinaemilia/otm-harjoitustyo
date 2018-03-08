@@ -1,3 +1,8 @@
-# OTSIKKO
+## OTM-harjoitustyö
 
-tavallinen teksti joka sisältää **boldattuja** ja *vinotettuja* osuuksia
+### Tehtävät
+
+#### Viikko 1
+
+[komentorivi.txt](komentorivi.txt)
+[gitlog.txt](gitlog.txt)

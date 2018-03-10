@@ -12,5 +12,7 @@
 
 ### Viikko 2
 
+[maksukorttiTest](laskarit/viikko2/Maksukortti/test/MaksukorttiTest.java)
+[Unicafe: MaksukorttiTest ja KassapaateTest](laskarit/viikko2/Unicafe/test)
 
 ### Viikko 3

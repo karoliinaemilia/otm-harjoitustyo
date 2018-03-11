@@ -1,5 +1,11 @@
 # OTM-harjoitustyö
 
+*kevät 2018*
+
+## Harjoitustyö
+
+[Miinaharava](Miinaharava)
+
 ## Tehtävät
 
 ### Viikko 1

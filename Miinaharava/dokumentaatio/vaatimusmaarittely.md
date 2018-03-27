@@ -12,10 +12,13 @@ Sovellus koostuu kolmesta eri näkymästä.
 ### Päävalikko
 Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen. 
 * Helppo
+
     9x9 ruutu, jossa on 10 miinaa.
 * Keskivaikea
+
     16x16 ruutu, jossa on 40 miinaa.
 * Vaikea
+
     30x16 ruutu, jossa on 99 miinaa.
 Pelaaja voi myös katsoa omia ennätyksiään.
 ### Peli

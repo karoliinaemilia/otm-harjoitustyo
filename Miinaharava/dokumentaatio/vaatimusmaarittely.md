@@ -9,7 +9,7 @@ Peli tallentaa pelaajan parhaat ajat.
 Sovelluksella on ainoastaan yksi käyttäjärooli eli *normaali käyttäjä*.
 ## Käyttöliittymäluonnos
 Sovellus koostuu kolmesta eri näkymästä.
-![Kayttoliittymadraft](/kuvat/kayttoliittymadraft.jpg)
+![alt text](https://github.com/karoliinaemilia/otm-harjoitustyo/blob/master/Miinaharava/dokumentaatio/kuvat/kayttoliittymadraft.jpg)
 ## Perusversion tarjoama toiminnallisuus
 ### Päävalikko
 Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen. 

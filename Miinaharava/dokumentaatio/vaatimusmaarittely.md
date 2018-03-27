@@ -12,7 +12,7 @@ Sovellus koostuu kolmesta eri näkymästä.
 
 ![alt text](https://github.com/karoliinaemilia/otm-harjoitustyo/blob/master/Miinaharava/dokumentaatio/kuvat/kayttoliittymadraft.jpg)
 ## Perusversion tarjoama toiminnallisuus
-### Päävalikko
+#### Päävalikko
 Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen. 
 * Helppo
 
@@ -25,9 +25,9 @@ Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen.
     30x16 ruutu, jossa on 99 miinaa.
     
 Pelaaja voi myös katsoa omia ennätyksiään.
-### Peli
+#### Peli
 Pelaaja näkee peliruudun, sivussa näkyy aika ja merkittyjen miinojen määrä. Reunasta voi myös aloittaa uuden pelin tai siirtyä päävalikkoon vaihtamaan vaikeusastetta.
-### Ennätyslista
+#### Ennätyslista
 Sivulla näkyy parhaat kymmenen aikaa jokaiselle vaikeusasteelle.
 ## Jatkokehitysideoita
 * customoitu vaikeusaste, jossa voi valita ruudun koon ja miinojen määrän itse

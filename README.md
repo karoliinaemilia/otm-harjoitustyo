@@ -22,4 +22,6 @@
 
 [Unicafe: MaksukorttiTest ja KassapaateTest](laskarit/viikko2/Unicafe/src/test/java/com/mycompany/unicafe)
 
+[testikattavuus kuva](laskarit/viikko2/testikattavuus.jpeg)
+
 ### Viikko 3

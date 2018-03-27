@@ -16,17 +16,17 @@ Sovellus koostuu kolmesta eri näkymästä.
 Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen. 
 * Helppo
 
-    9x9 ruutu, jossa on 10 miinaa.
+    9x9 taulukko, jossa on 10 miinaa.
 * Keskivaikea
 
-    16x16 ruutu, jossa on 40 miinaa.
+    16x16 taulukko, jossa on 40 miinaa.
 * Vaikea
 
-    30x16 ruutu, jossa on 99 miinaa.
+    30x16 taulukko, jossa on 99 miinaa.
     
 Pelaaja voi myös katsoa omia ennätyksiään.
 #### Peli
-Pelaaja näkee peliruudun, sivussa näkyy aika ja merkittyjen miinojen määrä. Reunasta voi myös aloittaa uuden pelin tai siirtyä päävalikkoon vaihtamaan vaikeusastetta.
+Pelaaja näkee peliruudun, sivussa näkyy aika ja merkittyjen miinojen määrä. Reunasta voi myös aloittaa uuden pelin tai siirtyä päävalikkoon vaihtamaan vaikeusastetta. Peliä pelataan painamalla ruutua joka paljastaa mitä ruudussa on sisällä, jos ruudussa on miina pelaaja häviää. 
 #### Ennätyslista
 Sivulla näkyy parhaat kymmenen aikaa jokaiselle vaikeusasteelle.
 ## Jatkokehitysideoita

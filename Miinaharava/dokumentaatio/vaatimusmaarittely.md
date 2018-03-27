@@ -20,14 +20,16 @@ Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen.
 * Vaikea
 
     30x16 ruutu, jossa on 99 miinaa.
+    
 Pelaaja voi myös katsoa omia ennätyksiään.
 ### Peli
-Pelaaja näkee peliruudun, sivussa näkyy aika merkittyjen miinojen määrä. Reunasta voi myös aloittaa uuden pelin tai siirtyä päävalikkoon vaihtamaan vaikeusastetta.
+Pelaaja näkee peliruudun, sivussa näkyy aika ja merkittyjen miinojen määrä. Reunasta voi myös aloittaa uuden pelin tai siirtyä päävalikkoon vaihtamaan vaikeusastetta.
 ### Ennätyslista
 Sivulla näkyy parhaat kymmenen aikaa jokaiselle vaikeusasteelle.
 ## Jatkokehitysideoita
 * customoitu vaikeusaste, jossa voi valita ruudun koon ja miinojen määrän itse
 * käyttäjän luominen ja sisään kirjautuminen
 * graafiset päivitykset
+* pause-nappi, josta pelin voi pysäyttää ja ruutu menee piiloon
 
 

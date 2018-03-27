@@ -6,6 +6,9 @@
 
 [Miinaharava](Miinaharava)
 
+Viikko 2:
+[määrittelydokumentti](Miinaharava/dokumentaatio/vaatimusmaarittely.md)
+
 ## Tehtävät
 
 ### Viikko 1

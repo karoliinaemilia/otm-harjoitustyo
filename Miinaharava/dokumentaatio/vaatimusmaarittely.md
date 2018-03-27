@@ -7,8 +7,10 @@ Pelissä on kolme vaikeusastetta, joissa laudan koko ja miinojen määrät ovat 
 Peli tallentaa pelaajan parhaat ajat.
 ## Käyttäjät
 Sovelluksella on ainoastaan yksi käyttäjärooli eli *normaali käyttäjä*.
-## Perusversion tarjoama toiminnallisuus
+## Käyttöliittymäluonnos
 Sovellus koostuu kolmesta eri näkymästä.
+![Kayttoliittymadraft](/kuvat/kayttoliittymadraft.jpg)
+## Perusversion tarjoama toiminnallisuus
 ### Päävalikko
 Päävalikossa pelaaja aloittaa pelin valitsemalla vaikeusasteen. 
 * Helppo

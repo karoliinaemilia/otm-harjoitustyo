@@ -13,9 +13,9 @@ import javax.swing.JPanel;
 public class Board extends JPanel {
     
     private int sizeOfCell = 24;
-    private int numberOfMines = 4;
-    private int numberOfRows = 4;
-    private int numberOfColumns = 4;
+    private int numberOfMines = 40;
+    private int numberOfRows = 16;
+    private int numberOfColumns = 16;
     private int[] board;
     private int mineSpace = 9;
     private int emptySpace = 0;
